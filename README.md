@@ -14,4 +14,7 @@ This is the GitHub repository for the final project for the Programming for Data
 | **Student Email:**  | G00438912@atu.ie  |  
 
 # Purpose of this Repository  
-This repository contains the files associated with the Programming for Dat Analytics final project, the subject of which is...  
+This repository contains the files associated with the Programming for Data Analytics final project, the subject of which is...  
+
+# Raw Data Source
+[Historical Data - Met Éireann - The Irish Meteorological Service](https://www.met.ie/climate/available-data/historical-data)
