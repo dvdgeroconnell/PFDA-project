@@ -65,6 +65,11 @@ To use this repository, the following steps apply:
 2. Review the README (this document).  
 3. Open the *weather.ipynb* notebook in Visual Studio Code.  
 
+## Running and Testing the Notebook
+No special steps are required, once the pre-requisites are in place.  
+  
+Behaviour with and without the database may be tested. If the database is not present, it is built when the notebook is run and used each time the notebook is run, until such time as it is deleted again. To test behaviour without the database present, simply delete *wind2.db* from the repository.
+
 ## References
 
 The [Programming for Data Analytics](https://vlegalwaymayo.atu.ie/course/view.php?id=10462) lectures were heavily referred to for this project.  
