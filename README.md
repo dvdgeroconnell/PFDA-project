@@ -54,7 +54,7 @@ The following subdirectories are included.
 #### ./data
 Contains the files with the hourly, daily and monthly csv-formatted data, downloaded from Met Éireann for the selected weather stations. It also contains the files which explain the fields in the csv files, and a file called *poweroutput.txt*, which contains data on the performance of the [Siemens SWT-3.0-101 3MW wind turbine](https://www.thewindpower.net/turbine_en_275_siemens_swt-3.0-101.php).  
   
-### ./img  
+#### ./img  
 Contains the image files used in the *weather.ipynb* notebook.  
   
 ## Getting Started  
